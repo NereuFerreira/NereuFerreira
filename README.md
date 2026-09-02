@@ -1,5 +1,10 @@
 ## 👋 Sou o Nereu
 
+---
+
+Apresentação principal.
+
+Local destinado a repositório de estudos de SQL server, incicialmente.
 <!--
 **NereuFerreira/NereuFerreira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
